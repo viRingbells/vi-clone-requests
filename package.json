@@ -1,0 +1,16 @@
+{
+  "name": "vi-clone-requests",
+  "version": "0.0.1",
+  "description": "Clone requests to other servers",
+  "main": "./lib/cloneRequests.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viRingbells/vi-clone-requests.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+      "got": "~3.2.0"
+  },
+  "devDependencies": {
+  }
+}
