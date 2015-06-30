@@ -1,6 +1,6 @@
 {
   "name": "vi-clone-requests",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Clone requests to other servers",
   "main": "./lib/cloneRequests.js",
   "repository": {
